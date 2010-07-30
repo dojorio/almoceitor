@@ -1,0 +1,13 @@
+.rvmrc*
+.DS_Store
+coverage
+solr
+public/javascripts/*_packaged.js
+tags
+*.swp
+.bundle
+specifications
+cache
+gems
+tmp/restart.txt
+
